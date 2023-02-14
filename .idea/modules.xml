@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/BlockGenerator.iml" filepath="$PROJECT_DIR$/.idea/BlockGenerator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ModelGen.iml" filepath="$PROJECT_DIR$/.idea/ModelGen.iml" />
     </modules>
   </component>
 </project>

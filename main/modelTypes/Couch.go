@@ -1,7 +1,7 @@
 package modelTypes
 
 import (
-	"BlockGenerator/main/helpers"
+	"ModelGen/main/helpers"
 )
 
 // define all the structures used to build the couch model variants

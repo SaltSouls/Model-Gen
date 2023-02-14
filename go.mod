@@ -1,4 +1,4 @@
-module BlockGenerator
+module ModelGen
 
 go 1.19
 

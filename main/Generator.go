@@ -1,9 +1,9 @@
 package main
 
 import (
-	"BlockGenerator/main/helpers"
-	"BlockGenerator/main/modelTypes"
-	"BlockGenerator/main/parser"
+	"ModelGen/main/helpers"
+	"ModelGen/main/modelTypes"
+	"ModelGen/main/parser"
 	"path/filepath"
 	"strings"
 )

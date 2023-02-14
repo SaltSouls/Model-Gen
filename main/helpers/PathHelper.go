@@ -1,7 +1,7 @@
 package helpers
 
 import (
-	"BlockGenerator/main/parser"
+	"ModelGen/main/parser"
 	"path/filepath"
 	"strings"
 )
